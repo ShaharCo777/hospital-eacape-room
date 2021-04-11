@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.App {
+  font-family: sans-serif;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+    height: 100%;
+    width: 100%;
+}
+
+.btn{
+  position: fixed;
+  font-size: 1.5rem;
+  padding: 1.2rem;
+  color: white;
+  background-color: orangered;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
