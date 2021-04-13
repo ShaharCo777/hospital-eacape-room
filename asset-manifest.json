@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hospital-eacape-room/static/css/main.cd07ecf4.chunk.css",
+    "main.js": "/hospital-eacape-room/static/js/main.7a835a25.chunk.js",
+    "main.js.map": "/hospital-eacape-room/static/js/main.7a835a25.chunk.js.map",
+    "runtime-main.js": "/hospital-eacape-room/static/js/runtime-main.ae616a3f.js",
+    "runtime-main.js.map": "/hospital-eacape-room/static/js/runtime-main.ae616a3f.js.map",
+    "static/js/2.219518fe.chunk.js": "/hospital-eacape-room/static/js/2.219518fe.chunk.js",
+    "static/js/2.219518fe.chunk.js.map": "/hospital-eacape-room/static/js/2.219518fe.chunk.js.map",
+    "index.html": "/hospital-eacape-room/index.html",
+    "static/css/main.cd07ecf4.chunk.css.map": "/hospital-eacape-room/static/css/main.cd07ecf4.chunk.css.map",
+    "static/js/2.219518fe.chunk.js.LICENSE.txt": "/hospital-eacape-room/static/js/2.219518fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae616a3f.js",
+    "static/js/2.219518fe.chunk.js",
+    "static/css/main.cd07ecf4.chunk.css",
+    "static/js/main.7a835a25.chunk.js"
+  ]
+}
